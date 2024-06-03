@@ -1,0 +1,70 @@
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\EccobankRecolector.deps.json
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\EccobankRecolector.dll
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\ref\EccobankRecolector.dll
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\EccobankRecolector.pdb
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Agregarcliente.xaml.g.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Agregarcompra.xaml.g.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Login.xaml.g.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Mapear.xaml.g.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Menuprincipal.xaml.g.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Paglocalizar.xaml.g.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\RegCompras.xaml.g.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Vercliente.xaml.g.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.AssemblyInfoInputs.cache
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.AssemblyInfo.cs
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.csproj.CoreCompileInputs.cache
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.dll
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\ref\EccobankRecolector.dll
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.pdb
+E:\Proyectos Xamarin\EccobankCurso\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.csproj.AssemblyReference.cache
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\EccobankRecolector.deps.json
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\EccobankRecolector.dll
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\EccobankRecolector.pdb
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.csproj.AssemblyReference.cache
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.GeneratedMSBuildEditorConfig.editorconfig
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\App.xaml.g.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Agregarcliente.xaml.g.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Agregarcompra.xaml.g.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Login.xaml.g.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Mapear.xaml.g.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Menuprincipal.xaml.g.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Paglocalizar.xaml.g.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\RegCompras.xaml.g.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Vercliente.xaml.g.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.AssemblyInfoInputs.cache
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.AssemblyInfo.cs
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.csproj.CoreCompileInputs.cache
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\XamlC.stamp
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.dll
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\refint\EccobankRecolector.dll
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.pdb
+H:\Pruebas\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\ref\EccobankRecolector.dll
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\EccobankRecolector.deps.json
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\EccobankRecolector.dll
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\bin\Debug\netstandard2.0\EccobankRecolector.pdb
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.csproj.AssemblyReference.cache
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Agregarcliente.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Agregarcompra.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Login.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Mapear.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Menuprincipal.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Paglocalizar.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\RegCompras.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Vercliente.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.AssemblyInfoInputs.cache
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.AssemblyInfo.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.csproj.CoreCompileInputs.cache
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.dll
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\refint\EccobankRecolector.dll
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\EccobankRecolector.pdb
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\ref\EccobankRecolector.dll
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Config\Menuconfig.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Config\Productosconfig.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\Config\Recolectoresconfig.xaml.g.cs
+G:\Mobiles\Xamarin\EccobankRecolector\EccobankRecolector\obj\Debug\netstandard2.0\Vista\MenuAdmin.xaml.g.cs
